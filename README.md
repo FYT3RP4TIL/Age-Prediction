@@ -50,14 +50,17 @@
 
 
 <h2>Examples :</h2>
-<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/c829d213-a558-4349-87b1-bbbf385a95ce"/></div>
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/2c18317a-a7c8-474c-9ba2-68aa903f8521"/></div>
 <div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/47eacb64-a2f6-4513-803a-4ea1dd4dc379"/></div>
 <div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/30561e73-8537-4720-87b5-e27fcd25ae96"/></div>
-<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/79b55829-e400-496c-96ff-a80fde48dcb2"/></div>
-<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/07f16a1f-f26d-4cf6-a24b-db952af60f89"/></div>
-<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/7b2b40e0-0ac1-40d6-a55b-ff90b6a0dbbb"/></div>
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/3e3a1cb0-737b-4b43-bc34-485f0dc14735"/></div>
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/18b7d6ee-f1ae-4350-b971-19c755ece62d"/></div>
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/a88f5203-490b-4f29-bbe0-a41346f6899a"/></div>
              
+
  
+
+
 
 
 
