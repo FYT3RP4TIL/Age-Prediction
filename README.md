@@ -41,10 +41,11 @@
   <li><b>Change the image name :</li>
   
       img = cv2.imread('sample.jpg')
-</ul>
+
   <p><b>Note: </b>The Image should be present in same folder where all the files are present</p> 
+  </ul>
 <ul>
-  <li>Press <b>Run the code.</li>
+  <li>Run the code.</li>
 </ul>
 
 
