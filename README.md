@@ -48,5 +48,14 @@
 </ul>
 
 
+
 <h2>Examples :</h2>
-              
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/c829d213-a558-4349-87b1-bbbf385a95ce"/></div>
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/47eacb64-a2f6-4513-803a-4ea1dd4dc379"/></div>
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/30561e73-8537-4720-87b5-e27fcd25ae96"/></div>
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/79b55829-e400-496c-96ff-a80fde48dcb2"/></div>
+<div align= "center"><img src="https://github.com/Sudhanshu21xx/Age-Prediction/assets/113416452/07f16a1f-f26d-4cf6-a24b-db952af60f89"/></div>
+             
+ 
+
+
